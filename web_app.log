@@ -1,0 +1,11 @@
+{"level":"DEBUG","time":"2022-12-29T20:16:41.674+0800","caller":"bluebell/main.go:37","msg":"logger init success...."}
+{"level":"ERROR","time":"2022-12-29T20:16:41.689+0800","caller":"mysql/mysql.go:26","msg":"connect DB failed","error":"Error 1049 (42000): Unknown database 'test_name'"}
+{"level":"DEBUG","time":"2022-12-29T20:17:56.199+0800","caller":"bluebell/main.go:37","msg":"logger init success...."}
+{"level":"DEBUG","time":"2022-12-29T20:50:56.248+0800","caller":"bluebell/main.go:37","msg":"logger init success...."}
+{"level":"INFO","time":"2022-12-29T20:51:16.955+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-29T20:51:17.097+0800","caller":"logger/logger.go:71","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-29T21:04:23.803+0800","caller":"bluebell/main.go:74","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-29T21:04:23.818+0800","caller":"bluebell/main.go:83","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-29T21:04:37.120+0800","caller":"bluebell/main.go:37","msg":"logger init success...."}
+{"level":"INFO","time":"2022-12-29T21:04:49.811+0800","caller":"bluebell/main.go:74","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-29T21:04:49.816+0800","caller":"bluebell/main.go:83","msg":"Server exiting"}
